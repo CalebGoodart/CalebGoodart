@@ -1,4 +1,4 @@
-### Hi there 👋
+### Caleb Goodart 👋
 
 <!--
 **CalebGoodart/CalebGoodart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Caleb Goodart
+### About Me:
+      I am currently a Senior at Oklahoma State University Majoring in Computer Science with a Minor in Management Information Systems.
