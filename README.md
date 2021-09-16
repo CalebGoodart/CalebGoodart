@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### About Me:
-      I am currently a Senior at Oklahoma State University Majoring in Computer Science with a Minor in Management Information Systems.
+      I am currently a Senior at Oklahoma State University 
+      Majoring in Computer Science with a Minor in Management Information Systems.
